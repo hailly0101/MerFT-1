@@ -1,14 +1,14 @@
 ## MerFT
 
-🧠 SocialMQD: A Multimodal Meme Reasoning Dataset for Social Conflict Interpretation
-SocialMQD is a multimodal QA dataset focused on social conflict memes, and MerFT (Meme Exploration via Multimodal Retrieval-Augmented Fine-tuning) is a reasoning framework that leverages images, captions, and documents for robust interpretation in a complex sociocultural context.
+🧠 RoMQD: A Multimodal Meme Reasoning Dataset for Social Conflict Interpretation
+RoMQD is a multimodal QA dataset focused on social conflict memes, and MerFT (Meme Exploration via Multimodal Retrieval-Augmented Fine-tuning) is a reasoning framework that leverages images, captions, and documents for robust interpretation in a complex sociocultural context.
 
 📝 Overview
 Social media is a key platform for expressing and spreading social conflicts. In particular, memes have emerged as a powerful medium that conveys complex sociocultural messages through visual satire and symbolism.
 
 This project introduces:
 
-SocialMQD: A novel multimodal dataset tailored for interpreting socially controversial memes via QA pairs.
+RoMQD: A novel multimodal dataset tailored for interpreting socially controversial memes via QA pairs.
 
 MerFT: A robust Retrieval-Augmented Generation (RAG)-based framework that jointly uses image, caption, and document-level context to understand memes with high reasoning quality.
 
@@ -259,7 +259,7 @@ Performance was evaluated across various input configurations (Image-only, Capti
 MerFT consistently outperformed baselines in both accuracy and reasoning clarity, even under noisy input conditions.
 
 🔍 Key Contributions
-A new QA-style dataset (SocialMQD) for the interpretation of socially symbolic memes.
+A new QA-style dataset (RoMQD) for the interpretation of socially symbolic memes.
 
 A multimodal RAG framework (MerFT) with fine-tuning strategies tailored to satire, irony, and complex social context.
 
